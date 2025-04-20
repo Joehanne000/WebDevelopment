@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joehanne’s Web Space</title>
+    <link rel="stylesheet" href="webo.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Digital Playground</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About Me</a></li>
+                <li><a href="#">Creations</a></li>
+                <li><a href="#">Let’s Connect</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h2>Hey there, I’m Joehanne!</h2>
+            <p>Exploring the depths of web development one project at a time.</p>
+            <a href="#" class="cta-button">Join the Journey</a>
+        </section>
+
+        <section class="about">
+            <h2>About Me</h2>
+            <p>Passionate about learning new things, responsive web experiences that leave an impact.</p>
+            <img src="image/OIP.jpg" alt="My Profile Picture">
+        </section>
+
+        <section class="projects">
+            <h2>Latest Creations</h2>
+            <div class="project-card">
+                <img src="image/OIP (1).jpg" alt="Project 1">
+                <h3>Visionary Design</h3>
+                <p>A bold, modern interface blending aesthetics with functionality.</p>
+            </div>
+
+            <div class="project-card">
+                <img src="image/OIP (2).jpg" alt="Project 2">
+                <h3>Innovative Portfolio</h3>
+                <p>Showcasing creativity through seamless design and user experience.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Built by Joehanne | Fueled by Passion ☕</p>
+    </footer>
+</body>
+</html>
